@@ -1,0 +1,63 @@
+#F {
+    color: rgb(179, 179, 255);
+    font-size: 30px;
+    text-align: initial;
+}
+#S {
+    color: rgb(162, 162, 255);
+    font-size: 30px;
+}
+
+
+#boton-1{
+    margin: 20px ;
+     height: 23px;
+     width: 145px;
+     text-align: center;
+     background-color: black;
+     animation-name: animar;
+     animation-duration: 1.5s;
+     border-radius: 15px;
+     border: 1px solid rgb(149, 149, 253);
+     margin-left: 10px;
+     display: inline-block;
+    
+ }
+ #boton-2{
+    margin: 20px ;
+     height: 23px;
+     width: 145px;
+     text-align: center;
+     background-color: black;
+     animation-name: animar;
+     animation-duration: 1.5s;
+     border-radius: 15px;
+     border: 1px solid rgb(149, 149, 253);
+     display: inline-block;
+    
+ }
+
+ @keyframes animar{
+     0%{
+         transform: scale(.2);
+     }
+ }
+ 
+ a {
+    margin: 0 1 ;
+    color:rgb(142, 142, 255);
+    text-decoration: none;
+  }
+  #texto-primeta-pagina{
+      color: white;
+      font-size: 20px;
+      margin: 3px;
+  }
+  #Titulo-premium {
+      color: rgb(151, 151, 255);
+      text-align: center;
+      font-size: 22px;
+  }
+
+  
+ 
