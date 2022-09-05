@@ -20,6 +20,6 @@ utilizarla
 <a href="mailto:newoscaryt@gmail.com">
   <img align="right" alt="Mail" width="22px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
 </a>
-<a>
-  **<footer aling="left">Created by NewoscarYT</footer>**
-</a>
+**<a>
+  <footer aling="left">Created by NewoscarYT</footer>
+</a>**
