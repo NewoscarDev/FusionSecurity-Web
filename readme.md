@@ -1,6 +1,6 @@
 **<h1>WEB FUSIONSECURITY®</h1>**
 
-Web antigua de FusionSecurity, diseño muy basico en la web, tanto de css como de html y el resto.
+Web antigua de FusionSecurity®, diseño muy basico en la web, tanto de css como de html y el resto.
 Estos fueron unos de mis inicios en la programacion web y ahora lo dejo publico por si alguien quiere
 utilizarla
 
