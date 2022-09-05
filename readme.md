@@ -1,4 +1,4 @@
-**WEB FUSIONSECURITY**
+**<h1>WEB FUSIONSECURITY</h1>**
 
 Web antigua de FusionSecurity, diseño muy basico en la web, tanto de css como de html y el resto.
 Estos fueron unos de mis inicios en la programacion web y ahora lo dejo publico por si alguien quiere
@@ -21,5 +21,5 @@ utilizarla
   <img align="right" alt="Mail" width="22px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
 </a>
 <a>
-  <footer aling="left">Created by NewoscarYT</footer>
+  <footer aling="left">**Created by NewoscarYT**</footer>
 </a>
